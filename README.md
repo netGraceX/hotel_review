@@ -1,10 +1,9 @@
 # hotel_review
 
 ## Table of contents
-
-    - Description
-    - Technologies
-    - Setup
+- Description
+- Technologies
+- Setup
 
 ## Description
 
