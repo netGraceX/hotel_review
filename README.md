@@ -3,7 +3,8 @@
 ## Table of contents
 - Description
 - Technologies
-- Setup
+- Tasks performed
+- Results
 
 ## Description
 
